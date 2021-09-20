@@ -1,0 +1,28 @@
+h1{
+    color: #ff0000;
+}
+h2{
+    color:tomato;
+}
+.content{
+    line-height: 50px;
+    font-size: 20px;
+    color:darkred;
+}
+.content1{
+    font-size: 19px;
+    color:darkred;
+    letter-spacing: 3px;
+    font-weight: bold;
+    
+}
+p{
+    font-size: 17px;
+    color: darkred;
+    font-weight: bold;
+}
+i{
+    font-size: 20px;
+    color: darkred;
+    font-weight: bolder;
+}
